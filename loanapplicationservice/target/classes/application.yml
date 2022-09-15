@@ -1,0 +1,23 @@
+server:
+  port: ${PORT:8019}
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${DISCOVERY_URL:http://${DISCOVERY_HOST:localhost}:${DISCOVERY_PORT:8761}/eureka/}
+
+spring:
+  application:
+    name: loan-application-service
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+loanservice:
+  userqueue: userCreatedQueueLoanService
+  customerqueue: customerCreatedQueue
+
+security:
+  enabled: false

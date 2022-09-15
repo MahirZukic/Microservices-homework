@@ -1,0 +1,17 @@
+homework/auth/config/UserServiceImpl.class
+homework/auth/config/SecurityConstants.class
+homework/auth/exception/UserAlreadyFoundException.class
+homework/auth/repository/UserRepository.class
+homework/auth/AuthApplication.class
+homework/auth/controller/JwkSetEndpoint.class
+homework/auth/service/UserService.class
+homework/auth/config/MessagingConfig.class
+homework/auth/config/ResourceServerConfiguration.class
+homework/auth/controller/UserController.class
+homework/auth/config/AuthorizationServerConfig.class
+homework/auth/controller/RegistrationController.class
+homework/auth/exception/UserNotFoundException.class
+homework/auth/entity/UserEntity.class
+homework/auth/config/CommonSecurityConfig.class
+homework/auth/config/SecurityConfig.class
+homework/auth/model/UserDTO.class

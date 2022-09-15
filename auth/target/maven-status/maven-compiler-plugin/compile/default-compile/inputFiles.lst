@@ -1,0 +1,17 @@
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/config/ResourceServerConfiguration.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/config/MessagingConfig.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/config/AuthorizationServerConfig.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/config/SecurityConfig.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/entity/UserEntity.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/controller/RegistrationController.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/controller/UserController.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/controller/JwkSetEndpoint.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/exception/UserAlreadyFoundException.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/model/UserDTO.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/repository/UserRepository.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/AuthApplication.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/service/UserService.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/config/UserServiceImpl.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/config/SecurityConstants.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/config/CommonSecurityConfig.java
+/Users/user/Documents/homework/auth/src/main/java/homework/auth/exception/UserNotFoundException.java
